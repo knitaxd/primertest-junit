@@ -7,7 +7,7 @@ import org.junit.Test;
 public class SumaTest {
 
 	@Test
-	public void sumaPositivos() {
+	public void sumaPositivoPositivo() {
 		System.out.println("Sumando dos numeros positivos...");
 		Suma S = new Suma(2,3);
 		
