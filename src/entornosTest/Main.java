@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Hello world");
+		System.out.println("Hello, world!");
 		Suma s = new Suma(2,3);
 		Suma s2 = new Suma(2,-33);
 		Suma s3 = new Suma(47,3);
